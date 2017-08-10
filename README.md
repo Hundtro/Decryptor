@@ -1,2 +1,2 @@
 # Decryptor
-decrypy key codes
+decrypt key codes
